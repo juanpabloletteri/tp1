@@ -1,6 +1,6 @@
 <html>
 <head>
-	<title>Trabajo Practico 1</title>
+	<title>Trabajo Practico Nº 1</title>
 </head>
 <body>
 <?php  
